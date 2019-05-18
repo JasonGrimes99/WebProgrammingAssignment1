@@ -1,0 +1,13 @@
+/*Viewinstrument css*/ 
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #D3D3D3;
+  color: gray;
+  font-size: 25px;
+}
+ img {
+	 width: 150px;
+	 height: 150px;
+
+}

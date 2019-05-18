@@ -1,0 +1,26 @@
+/*login page*/
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #D3D3D3;
+  color: gray;
+  font-size: 25px;
+}
+body{
+		
+		width:1900px;
+		
+}
+
+#loginform{
+	background-color: white;
+	position :relative;
+	width: 400px;
+	margin-left:200px;
+	font-size:20px;
+	font-family:Arial;
+}
+
+input[type=password], [type=text]{
+
+} 

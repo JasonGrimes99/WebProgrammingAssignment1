@@ -1,0 +1,11 @@
+/*addinst*/
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #D3D3D3;
+  color: gray;
+  font-size: 25px;
+}
+input{
+	display:list-item;
+}

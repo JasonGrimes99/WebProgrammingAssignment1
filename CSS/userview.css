@@ -1,0 +1,28 @@
+/*user css*/
+
+#userview{
+	display:flex;
+}
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #D3D3D3;
+  color: gray;
+  font-size: 25px;
+}
+table {
+	border-collapse: collapse;
+	width: 800px;
+}
+tr, td{
+	height:50px;
+	border: 1px solid black;
+}
+ img {
+	 width: 150px;
+	 height: 150px;
+
+}
+input {
+	display:list-item;
+}
